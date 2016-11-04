@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableau" itemID="5810f2b9-00000021" lastModified="1477505969">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableau" itemID="5810f2b9-00000021" lastModified="1478277909">
   <timeline>
     <DOMTimeline name="Tableau">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="63" height="46.7" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="63" height="49.7" isSelectable="false">
                   <matrix>
                     <Matrix tx="7" ty="6.9"/>
                   </matrix>
@@ -14,12 +14,12 @@
                     <DOMTextRun>
                       <characters>Points:&#xD;Vies:</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="_sans" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="23.85" size="20" bitmapSize="400" face="_sans"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMDynamicText name="txtPoints" fontRenderingMode="standard" width="27" height="22.35" isSelectable="false">
+                <DOMDynamicText name="txtPoints" fontRenderingMode="standard" width="27" height="23.85" isSelectable="false">
                   <matrix>
                     <Matrix tx="74" ty="6.9"/>
                   </matrix>
@@ -27,12 +27,12 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="_sans" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" lineHeight="23.85" size="20" bitmapSize="400" face="_sans"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="txtNbVies" fontRenderingMode="standard" width="27" height="22.35" isSelectable="false">
+                <DOMDynamicText name="txtNbVies" fontRenderingMode="standard" width="27" height="23.85" isSelectable="false">
                   <matrix>
                     <Matrix tx="74" ty="31.25"/>
                   </matrix>
@@ -40,7 +40,7 @@
                     <DOMTextRun>
                       <characters>10</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="_sans" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" lineHeight="23.85" size="20" bitmapSize="400" face="_sans"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
