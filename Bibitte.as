@@ -16,7 +16,7 @@
 			y = stage.stageHeight/2; //aligne la bibitte
 			rotation = Math.floor(Math.random()*360);
 			removeEventListener(Event.ADDED_TO_STAGE, init);
-			addEventListener(MouseEvent.CLICK, tuer);
+			addEventListener(MouseEvent.MOUSE_OVER, tuer);
 		}
 		
 		private function tuer(e:Event){
